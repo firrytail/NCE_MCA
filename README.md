@@ -7,9 +7,10 @@ however,the MCA algorithm is implemented in JAVA.
 
 Structure
 --------
-
+**The NCE_MCA has three main hierachical functionalities:The Negative Correlation Mining, Negative Correlation Enhanced data preprocessing and MCA classification**
+-###Negative correlation mining
+--
 Example
 --------
 
-**Pensil** 
 
