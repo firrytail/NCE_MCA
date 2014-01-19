@@ -5,13 +5,13 @@ Negative Correlation Enhanced Multiple Correspondence Analysis(NCE_MCA) Classifi
 
 Structure
 --------
-**The NCE_MCA has three main hierachical functionalities:The Negative Correlation Mining, Negative Correlation Enhanced data preprocessing and MCA classification.**
+**The NCE_MCA has three main hierarchical functionalities:The Negative Correlation Mining, Negative Correlation Enhanced data preprocessing and MCA classification.**
 
 1.	Negative Correlation Mining
->
+
 2.	Negative Correlation Enhanced data preprocessing
 
-3.	MCA Clasification Model embedded
+3.	MCA Classification Model embedded
 
 Example
 --------
